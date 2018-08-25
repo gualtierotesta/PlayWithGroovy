@@ -1,14 +1,31 @@
+
+*~
+hs_err_pid*
+*.class
+dist
+*.ear
+*.war
+*.jar
+target
+build
+out
+
+.project
+.settings
+.classpath
+
+.idea
+*.iml
+
+nb*
+nbproject
+nb-*.xml
+nb*.xml
+
 .gradle
-/build/
-
-# Ignore Gradle GUI config
 gradle-app.setting
-
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
-
-# Cache of project
 .gradletasknamecache
 
-# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
