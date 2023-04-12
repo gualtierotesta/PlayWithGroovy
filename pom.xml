@@ -55,6 +55,7 @@
     <modules>
         <module>mixed</module>
         <module>spock</module>
+        <module>func</module>
     </modules>
 
     <build>
