@@ -11,6 +11,6 @@ indent_size = 4
 continuation_indent_size = 8
 charset = utf-8
 
-[{*.js, *.yaml, *.yml}]
+[{*.js,*.yaml,*.yml}]
 indent_size = 2
 

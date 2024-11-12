@@ -1,5 +1,6 @@
 ## Local projetc files
 data
+.DS_Store
 
 ## Misc files
 *.class
